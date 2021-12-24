@@ -124,8 +124,6 @@ End.
 
 * `SFX_End()` kończy działanie silnika SFX
 
-
-
 * Skompiluj plik `main.pas` - jak to zrobić najwygodniej? Odsyłam do dokumentu @Bocianu [MAD Pascal i Geany](http://bocianu.atari.pl/blog/madgeany)
 
 * Uruchom XEXa
